@@ -1,6 +1,5 @@
 BRANCHING BOXES CHANGELOG
 
-Version 3.0.9
-- PCVR Launcher
-- Tagging
+Version 3.1.0
+- Fixed Bugs
 
