@@ -1,5 +1,7 @@
 BRANCHING BOXES CHANGELOG
 
-Version 3.1.0
-- Fixed Bugs
+Version 4.0.0
+- Summer Update
+- Beach Map
+- New Bundle
 
