@@ -1,6 +1,6 @@
 BRANCHING BOXES CHANGELOG
 
-Version 4.0.0
+Version 4.0.5
 - Summer Update
 - Beach Map
 - New Bundle
